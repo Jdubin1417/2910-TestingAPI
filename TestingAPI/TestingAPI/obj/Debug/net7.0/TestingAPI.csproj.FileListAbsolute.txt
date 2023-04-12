@@ -1,0 +1,15 @@
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\bin\Debug\net7.0\TestingAPI.exe
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\bin\Debug\net7.0\TestingAPI.deps.json
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\bin\Debug\net7.0\TestingAPI.runtimeconfig.json
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\bin\Debug\net7.0\TestingAPI.dll
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\bin\Debug\net7.0\TestingAPI.pdb
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.csproj.AssemblyReference.cache
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.AssemblyInfoInputs.cache
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.AssemblyInfo.cs
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.csproj.CoreCompileInputs.cache
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.dll
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\refint\TestingAPI.dll
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.pdb
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\TestingAPI.genruntimeconfig.cache
+C:\Users\rochellew\Downloads\TestingAPI\TestingAPI\obj\Debug\net7.0\ref\TestingAPI.dll
